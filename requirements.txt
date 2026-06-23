@@ -1,0 +1,7 @@
+streamlit==1.40.2
+agno>=2.6.0,<2.7.0
+Pillow>=10.0.0
+duckduckgo-search>=6.4.2,<9
+ddgs
+google-genai>=2.6.0,<2.7.0
+pydicom
